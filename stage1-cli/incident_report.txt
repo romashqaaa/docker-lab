@@ -1,0 +1,3 @@
+ОТЧЁТ ОБ АВАРИЯХ:
+- [CRIT] Oxygen sensor 02: pressure drop
+- [CRIT] Radiation shield: leak detected

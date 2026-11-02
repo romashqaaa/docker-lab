@@ -1,0 +1,6 @@
+[OK] Reactor core: stable
+[CRIT] Oxygen sensor 02: pressure drop
+[OK] Main thrusters: online
+[WARN] Battery module: 78% charge
+[CRIT] Radiation shield: leak detected
+[OK] Navigation matrix: aligned
